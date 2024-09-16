@@ -64,11 +64,13 @@
         ejecutar en la raiz del proyecto yarn dev o npm run dev
     ```
 2.  **Usuario de Prueba**    
-    ``` email:example1@gmail.com
+    ``` email:
+        example1@gmail.com
         password:1234
         rol:Operativo
     ```
-    ``` email:example@gmail.com
+    ``` email:
+        example@gmail.com
         password:1234
         rol:Admin
     ```
